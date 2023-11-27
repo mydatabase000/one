@@ -1,0 +1,53 @@
+{
+    "namo001nya@gmail.com": {
+        "Last check": "2023-06-11",
+        "Today's points": 3,
+        "Points": 210
+    },
+    "vish002nu@gmail.com": {
+        "Last check": "2023-06-11",
+        "Today's points": 28,
+        "Points": 257
+    },
+    "kase003tes@gmail.com": {
+        "Last check": "2023-06-11",
+        "Today's points": 3,
+        "Points": 260
+    },
+    "bare004nae@gmail.com": {
+        "Last check": "2023-06-11",
+        "Today's points": 3,
+        "Points": 210
+    },
+    "neon005lite@gmail.com": {
+        "Last check": "2023-06-11",
+        "Today's points": 3,
+        "Points": 257
+    },
+    "jiol006fite@gmail.com": {
+        "Last check": "2023-06-11",
+        "Today's points": 3,
+        "Points": 210
+    },
+    "guru007rew@gmail.com": {
+        "Last check": "2023-06-11",
+        "Today's points": 3,
+        "Points": 257
+    },
+    "kres008hat@gmail.com": {
+        "Last check": "2023-06-11",
+        "Today's points": 3,
+        "Points": 210
+    },
+    "lubv009cez@gmail.com": {
+        "Last check": "2023-06-11",
+        "Today's points": 3,
+        "Points": 210
+    },
+    "fari010yop@gmail.com": {
+        "Last check": "2023-06-11",
+        "Today's points": 0,
+        "Points": 257
+    },
+    "Elapsed time": "00:02:56"
+}
