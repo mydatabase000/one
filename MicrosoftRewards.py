@@ -503,7 +503,7 @@ def getCCodeLangAndOffset() -> tuple:
         return(lang, geo, tz)
     # Due to limits that ipapi has some times it returns error so I put US and English as default, you may change it at whatever you need.
     except:
-        return('en-en', 'IN', '330')
+        return('en-US', 'US', '-480')
 
 def getGoogleTrends(numberOfwords: int) -> list:
     search_terms = []
