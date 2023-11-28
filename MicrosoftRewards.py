@@ -503,7 +503,7 @@ def getCCodeLangAndOffset() -> tuple:
         return(lang, geo, tz)
     # Due to limits that ipapi has some times it returns error so I put US and English as default, you may change it at whatever you need.
     except:
-        return('en-US', 'US', '-480')
+        return('en-en', 'IN', '330')
 
 def getGoogleTrends(numberOfwords: int) -> list:
     search_terms = []
@@ -586,13 +586,13 @@ def bingSearch(browser: WebDriver, word: str, isMobile: bool):
     searchbar = browser.find_element(By.ID, 'sb_form_q')
     if FAST:
         searchbar.send_keys(word)
-        time.sleep(1)
+        time.sleep(120)
     else:
         for char in word:
             searchbar.send_keys(char)
             time.sleep(0.33)
     searchbar.submit()
-    time.sleep(random.randint(12, 24) if not FAST else random.randint(6, 9))
+    time.sleep(random.randint(80, 120) if not FAST else random.randint(6, 9))
     points = 0
     try:
         if not isMobile:
